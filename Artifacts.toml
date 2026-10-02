@@ -1,0 +1,160 @@
+[[primer3]]
+arch = "i686"
+git-tree-sha1 = "ee6250a880635eeb831aff8bed5d805399b183c1"
+os = "windows"
+
+    [[primer3.download]]
+    sha256 = "2578458433046c5849eff8576123060f9545dc99b5a6bdbcb91624f7f0ecc46d"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.i686-w64-mingw32.tar.gz"
+[[primer3]]
+arch = "x86_64"
+git-tree-sha1 = "0e8b570ffd13bfdf10c694f20420333bd49c79ac"
+os = "windows"
+
+    [[primer3.download]]
+    sha256 = "6ebc62e9d4da6673dfb77d0e993ccc0931b96421459921f99d373b6c15503d29"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.x86_64-w64-mingw32.tar.gz"
+[[primer3]]
+arch = "aarch64"
+git-tree-sha1 = "014dae3c1685f4cc5fd50538b20021bea300ea1a"
+os = "macos"
+
+    [[primer3.download]]
+    sha256 = "2951ede37f873e63946bebc1a3d3a8b99dbce695881e27b91720f95315cb825c"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.aarch64-apple-darwin.tar.gz"
+[[primer3]]
+arch = "aarch64"
+git-tree-sha1 = "d886992269860c88cb22178e28499eb4fae4ae8d"
+libc = "glibc"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "0593e220a00b0b2423e114dc2d176b6b1f2fd6af2e45c543ee924720ab2bab30"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.aarch64-linux-gnu.tar.gz"
+[[primer3]]
+arch = "aarch64"
+git-tree-sha1 = "c1155bf8a22b4993a4f8a87dd836e6eae659b276"
+libc = "musl"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "40918cdbe098cbb015c6aff5554afd3af6e7f6c8621c7b676dc97379af3ddd3f"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.aarch64-linux-musl.tar.gz"
+[[primer3]]
+arch = "aarch64"
+git-tree-sha1 = "1f9d443193b41d12cdb687b1189dcd1db2c4bf6e"
+os = "freebsd"
+
+    [[primer3.download]]
+    sha256 = "b8ffc5be581ec2c9c8cc8e47fb871b49c4a60c7cc2a5ba6f23735cd3e9a558b6"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.aarch64-unknown-freebsd.tar.gz"
+[[primer3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4e2d3d53c3baac2d964f1b9f9b46af1ce2d9413f"
+libc = "glibc"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "c39a88ff1a8c94c0aff9303b5624be106f2835948d015983891de8024c79d587"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.armv6l-linux-gnueabihf.tar.gz"
+[[primer3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6801b2b8351692245f1a799a9b51d5c6d9bc1c8f"
+libc = "musl"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "ff73eac34efd98d0fc94ff0552ebfb850196949174692205c4956d7d8940d6a2"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.armv6l-linux-musleabihf.tar.gz"
+[[primer3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "86f3f7cd81c540eebe95ea71add4e4afc22515d6"
+libc = "glibc"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "195a345bfa2643c4c4c2db2da3472e7a46c8efb860d7ea1305191a3505f124f4"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.armv7l-linux-gnueabihf.tar.gz"
+[[primer3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "12ff3ffa286f85b8cf30f92ab9ae84e5e7e92e81"
+libc = "musl"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "ad7ebca611c78975a91069d0317d46416c19c683ba14b9014fa06aa5e4a4de76"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.armv7l-linux-musleabihf.tar.gz"
+[[primer3]]
+arch = "i686"
+git-tree-sha1 = "cfdefe570ad3d566610b581b6c7e01d834a42d09"
+libc = "glibc"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "0cbe28398501cf2a265ea444f15eea7b479a22839c46d449b05d017667e1e481"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.i686-linux-gnu.tar.gz"
+[[primer3]]
+arch = "i686"
+git-tree-sha1 = "6dc7aa4d6a2c7da5a643f1089fd7b5df756f71cf"
+libc = "musl"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "7c15969757d9fa4b82a88c839b7c032f42c9118d267721f692776fc4d0e472a4"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.i686-linux-musl.tar.gz"
+[[primer3]]
+arch = "powerpc64le"
+git-tree-sha1 = "9192d603765a5807ebe782da8a051fbedfbb3956"
+libc = "glibc"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "2e5e86db5b53005899caf02275aaaa282f857102fbf1f3918a82b00b4a76b9da"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.powerpc64le-linux-gnu.tar.gz"
+[[primer3]]
+arch = "riscv64"
+git-tree-sha1 = "1fcd3a013f7c0b737e6522e3eb71d629fe8bdf75"
+libc = "glibc"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "00473174d80111e0fcc583c6a2a2ff74ef97d58ef14418de3cc5b71d9d65cc9e"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.riscv64-linux-gnu.tar.gz"
+[[primer3]]
+arch = "x86_64"
+git-tree-sha1 = "787bd848d47a7f7b62b6c12045ad25b061197685"
+os = "macos"
+
+    [[primer3.download]]
+    sha256 = "b83d39c3680c860e64b7002c5df4ba2aa4f1c630372bc78f36da1ddd649161cd"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.x86_64-apple-darwin.tar.gz"
+[[primer3]]
+arch = "x86_64"
+git-tree-sha1 = "3ab82f76824f6a03d945aabf6d3f7826131ab79b"
+libc = "glibc"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "5dcf3e959cabee7e63995c8c77d902bd035f7ebfd32f1a27dad58489b200f659"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.x86_64-linux-gnu.tar.gz"
+[[primer3]]
+arch = "x86_64"
+git-tree-sha1 = "f6d294a4532524ea80c628c82d5387c23a49948f"
+libc = "musl"
+os = "linux"
+
+    [[primer3.download]]
+    sha256 = "1e9a1852178ee938854c001d1f92c358cb129b0b40fc4e54cea4f6d29b2cb258"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.x86_64-linux-musl.tar.gz"
+[[primer3]]
+arch = "x86_64"
+git-tree-sha1 = "9663da1fc9d6669c1f77e07662d9f6aa43369c97"
+os = "freebsd"
+
+    [[primer3.download]]
+    sha256 = "6060c853a688ec5ff0826f01ad72e4bda1bf36f224cb60235c1dec861e1ac1cb"
+    url = "https://github.com/JuliaBinaryWrappers/primer3_jll.jl/releases/download/primer3-v2.6.1+0/primer3.v2.6.1.x86_64-unknown-freebsd.tar.gz"
